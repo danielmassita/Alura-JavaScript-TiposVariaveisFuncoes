@@ -24,5 +24,5 @@ git status
 git add .
 git status
 git commit -m "mensagem aqui de commit"
-git push origin master
+git push origin master DEU ERRO
 */
